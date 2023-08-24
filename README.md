@@ -1,1 +1,0 @@
-# rossman_store_predict
