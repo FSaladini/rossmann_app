@@ -44,4 +44,4 @@ def rossman_predict():
 
 if __name__ == '__main__':
     port = os.environ.get( 'PORT', 10000 )
-    app.run( '127.0.0.1', port = port )
+    app.run( '0.0.0.0', port = port )
